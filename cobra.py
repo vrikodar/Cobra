@@ -1,5 +1,5 @@
 #By SxNade
-#https://github.com/SxNade
+#https://github.com/SxNade/Cobra
 #CONTRIBUTE
 
 import subprocess
