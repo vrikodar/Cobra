@@ -24,7 +24,9 @@ cobra allows us to steal system info stealthly and then use that system info aga
 
 ![Capture](https://github.com/SxNade/Cobra/blob/main/cobra.gif)
 
-this command will edit the cobra.py file with the specified email and password
+**this command will edit the cobra.py file with the specified email and password**
+
+![Capture](https://github.com/SxNade/Cobra/blob/main/cfile.gif)
 
 `pip3 install pyinstaller`
 
