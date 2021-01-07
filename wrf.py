@@ -44,7 +44,7 @@ with open('cobra.py', 'r') as file:
 with open('cobra.py', 'w') as file:
     file.writelines( data )
 
-print(colored("\n[*]You can now compile cobra.py to a executable now..", 'red', attrs=['bold']))
+print(colored("\n[*]You can now compile cobra.py to a executable", 'red', attrs=['bold']))
 
 
 
